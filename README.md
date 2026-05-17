@@ -17,7 +17,7 @@
 > whoami
 
 Role: Web Developer
-Focus: Pentesting & Backend
+Focus: Pentesting && Backend
 Status: Always learning
 OS: Linux enjoyer && Optimization Lover
 ````
