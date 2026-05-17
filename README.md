@@ -33,7 +33,7 @@ OS: Linux enjoyer && Optimization Lover
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vue,nodejs,php,laravel,c#,.net,mysql,mongodb,docker,git,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vue,nodejs,php,laravel,cs,dotnet,mysql,mongodb,docker,git,linux,vscode" />
 
 </p>
 
