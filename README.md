@@ -16,11 +16,10 @@
 ```bash
 > whoami
 
-Name: Dani Tomicic
 Role: Web Developer
-Focus: Pentesting & B2B solutions
+Focus: Pentesting & Backend
 Status: Always learning
-OS: Linux enjoyer 🐧
+OS: Linux enjoyer && Optimization Lover
 ````
 
 * 🎓 Graduated in Web Development at **EGIBIDE Arriaga**
@@ -34,21 +33,10 @@ OS: Linux enjoyer 🐧
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,mongodb,docker,git,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vue,nodejs,php,laravel,c#,.net,mysql,mongodb,docker,git,linux,vscode" />
 
 </p>
 
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 # 🔥 Current Mission
 
@@ -62,19 +50,7 @@ while alive:
 
 Currently working on:
 
-* 🔐 Pentesting labs
-* 🌐 Full Stack apps
-* ⚙️ Automation tools
-* 🏢 B2B solutions
-
----
-
-# ☕ Random Dev Facts
-
-* I use Google like StackOverflow Premium
-* 90% of bugs disappear after restarting Docker
-* "It works on my machine" is a valid deployment strategy
-* Linux > everything
+* 🔐 B2B Saas
 
 ---
 
