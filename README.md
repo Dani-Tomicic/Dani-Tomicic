@@ -1,4 +1,4 @@
-````md
+
 <h1 align="center">⚡ Dani Tomicic ⚡</h1>
 
 <p align="center">
